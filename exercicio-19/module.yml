@@ -1,0 +1,4 @@
+name: "Decodificação e Codificação ASCII - Exercício 19"
+challenges:
+  - id: ascii-decode-encode-3
+    name: 'Decodificação Hex→ASCII e Codificação de Nome — "Rita"'

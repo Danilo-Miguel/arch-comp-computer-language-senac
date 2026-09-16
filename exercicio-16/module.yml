@@ -1,0 +1,4 @@
+name: "Armazenamento ASCII - Exercício 16"
+challenges:
+  - id: ascii-storage-4
+    name: 'Armazenamento em ASCII — Palavra "Hardware"'

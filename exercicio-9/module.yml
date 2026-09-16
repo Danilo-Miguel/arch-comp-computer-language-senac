@@ -1,0 +1,4 @@
+name: "Código de Máquina: Hex → Bin/Dec - Exercício 9"
+challenges:
+  - id: base-hex-bin-dec-1
+    name: "Código de Máquina: Hexadecimal → Binário e Decimal (Variação 1)"

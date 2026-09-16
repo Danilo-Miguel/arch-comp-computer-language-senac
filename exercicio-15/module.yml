@@ -1,0 +1,4 @@
+name: "Armazenamento ASCII - Exercício 15"
+challenges:
+  - id: ascii-storage-3
+    name: 'Armazenamento em ASCII — Palavra "Compiler"'

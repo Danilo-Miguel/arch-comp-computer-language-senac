@@ -1,0 +1,4 @@
+name: "Decodificação e Codificação ASCII - Exercício 18"
+challenges:
+  - id: ascii-decode-encode-2
+    name: 'Decodificação Hex→ASCII e Codificação de Nome — "Davi"'

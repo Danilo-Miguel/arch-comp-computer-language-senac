@@ -1,0 +1,4 @@
+name: "Armazenamento ASCII - Exercício 13"
+challenges:
+  - id: ascii-storage-1
+    name: 'Armazenamento em ASCII — Palavra "Processor"'

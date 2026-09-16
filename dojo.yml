@@ -1,0 +1,28 @@
+
+id: conversao-base-ascii
+name: "Conversão de Base e Tabela ASCII - Computer Architecture"
+type: example
+award:
+  emoji: 🔢
+image: pwncollege/challenge-simple
+modules:
+  - id: exercicio-1
+  - id: exercicio-2
+  - id: exercicio-3
+  - id: exercicio-4
+  - id: exercicio-5
+  - id: exercicio-6
+  - id: exercicio-7
+  - id: exercicio-8
+  - id: exercicio-9
+  - id: exercicio-10
+  - id: exercicio-11
+  - id: exercicio-12
+  - id: exercicio-13
+  - id: exercicio-14
+  - id: exercicio-15
+  - id: exercicio-16
+  - id: exercicio-17
+  - id: exercicio-18
+  - id: exercicio-19
+  - id: exercicio-20
