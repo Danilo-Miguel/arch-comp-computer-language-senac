@@ -1,0 +1,4 @@
+name: "Conversão para Hexadecimal - Exercício 6"
+challenges:
+  - id: base-dec-bin-hex-2
+    name: "Endereçamento de Memória → Hexadecimal (Variação 2)"

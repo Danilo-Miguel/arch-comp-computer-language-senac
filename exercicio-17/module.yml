@@ -1,0 +1,4 @@
+name: "Decodificação e Codificação ASCII - Exercício 17"
+challenges:
+  - id: ascii-decode-encode-1
+    name: 'Decodificação Hex→ASCII e Codificação de Nome — "Ana"'

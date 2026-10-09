@@ -1,0 +1,22 @@
+#!/usr/bin/exec-suid -- /bin/bash -p
+RESP="/home/hacker/resposta.txt"
+ESPERADO=$'10001000 136\n00111111 63\n01011011 91\n11010010 210'
+
+if [ ! -f "$RESP" ]; then
+    echo "Arquivo resposta.txt não encontrado no seu diretório home!"
+    exit 1
+fi
+
+OBTIDO=$(cat "$RESP")
+
+if [ "$OBTIDO" == "$ESPERADO" ]; then
+    echo "Correto! Flag:"
+    cat /flag
+else
+    echo "Resposta incorreta."
+    echo "Esperado (4 linhas, formato 'BINARIO DECIMAL'):"
+    echo "$ESPERADO"
+    echo ""
+    echo "Obtido:"
+    echo "$OBTIDO"
+fi
